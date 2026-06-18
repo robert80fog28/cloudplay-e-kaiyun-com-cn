@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robert80fog28.github.io/cloudplay-e-kaiyun-com-cn/sitemap.xml
